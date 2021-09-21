@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hessel-Otten.
 - 👀 I’m interested in DevOps.
-- 🌱 I’m currently learning a lot.
-- 💞️ I’m looking to collaborate on making money.
+- 🌱 I’m currently learning devcontainers.
+- 💞️ I’m looking to make everything work.
 - 📫 How to reach me ...
 
 <!---
